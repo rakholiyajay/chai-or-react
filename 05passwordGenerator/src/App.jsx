@@ -97,3 +97,9 @@ function App() {
 }
 
 export default App;
+
+//usecallback :- this hook store the value in the catch means it memorize the function as much as possible means all the thingd is reuse that things is store in the catch
+
+//useEffect : this hooks simple know that when the page will be ;load it should first it will be call and also if it change on their given dependencies so that rerun
+
+//useRef : this hook takes the reference and manuplate that reference and show means if we copy any text that time it will be highlight it show the better optimization
